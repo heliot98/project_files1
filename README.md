@@ -23,7 +23,7 @@ TV,1000.0,2
 VideoGame,1500.0,1
 Geladeira,2000.0,1
 
-bash
+
 
 
 ### ▶ Passos para rodar
